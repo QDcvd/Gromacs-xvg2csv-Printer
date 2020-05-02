@@ -9,3 +9,5 @@ python print.py 3 [文件名称] [x轴表头名字] [y1轴表头名字] [y2轴�
 python print.py 3 RMSD.csv 48601-RMSD-potein-potein-xvgx 48601-RMSD-potein-potein-xvgy1 4860-rmsd-potein-potein-xvgy2 5018-rmsd-potein-xvgy3 Time(ns) RMSD(ns)
 
 python print.py 2 RMSD.csv 48601-RMSD-potein-potein-xvgx 48601-RMSD-potein-potein-xvgy1 4860-rmsd-potein-potein-xvgy2 Time(ns) RMSD(ns)
+
+目前支持csv文件。
