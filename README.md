@@ -1,13 +1,11 @@
 # 使用方法 
-当是xyy图时，使用语法：
-./print.py 2 [文件名称] [x轴表头名字] [y1轴表头名字] [y2轴表头名字] [x轴标签名字] [y轴标签名字]
-
-当是xyyy图时，使用的语法：
-./print.py 3 [文件名称] [x轴表头名字] [y1轴表头名字] [y2轴表头名字] [y3轴表头名字] [x轴标签名字] [y轴标签名字]
+输入： python gmxLineChart [文件名称] [x轴名称] [y轴名称]
 
 例子：
-./print.py 3 RMSD.csv 48601-RMSD-potein-potein-xvgx 48601-RMSD-potein-potein-xvgy1 4860-rmsd-potein-potein-xvgy2 5018-rmsd-potein-xvgy3 Time(ns) RMSD(ns)
+python gmxLineChart.py test.csv m m
 
-./print.py 2 RMSD.csv 48601-RMSD-potein-potein-xvgx 48601-RMSD-potein-potein-xvgy1 4860-rmsd-potein-potein-xvgy2 Time(ns) RMSD(ns)
+目前仅支持xvg转换的csv文件。
 
-目前支持csv文件。
+画图效果:
+![dbde635d72787912cc4e5effc7236a9](https://user-images.githubusercontent.com/54057111/117633028-39fa5680-b1b0-11eb-9918-1470d2c46b46.png)
+
