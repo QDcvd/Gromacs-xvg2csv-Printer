@@ -1,0 +1,2 @@
+打开命令行
+输入： python gmxLineChart [文件名称] [x轴名称] [y轴名称]
