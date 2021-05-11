@@ -18,6 +18,7 @@ python gmxLineChart.py test.csv m m
 python gmxFrequency.py RMSD-backbone.csv x y
 
 画图效果(一次性输出四种分割形式的频率图)：
+分别是20, 50, 100, 1000对数据进行区域划分
 
 ![RMSD-backbone50](https://user-images.githubusercontent.com/54057111/117742450-6c02cb80-b237-11eb-8563-fcb67cbe5d68.jpg)
 ![RMSD-backbone100](https://user-images.githubusercontent.com/54057111/117742452-6dcc8f00-b237-11eb-9eff-b292f3d4954d.jpg)
