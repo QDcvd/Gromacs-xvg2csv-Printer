@@ -20,8 +20,9 @@ python gmxFrequency.py RMSD-backbone.csv x y
 画图效果(一次性输出四种分割形式的频率图)：
 分别是20, 50, 100, 1000对数据进行区域划分
 
-![RMSD-backbone50](https://user-images.githubusercontent.com/54057111/117742450-6c02cb80-b237-11eb-8563-fcb67cbe5d68.jpg)
-![RMSD-backbone100](https://user-images.githubusercontent.com/54057111/117742452-6dcc8f00-b237-11eb-9eff-b292f3d4954d.jpg)
-![RMSD-backbone1000](https://user-images.githubusercontent.com/54057111/117742453-6e652580-b237-11eb-9d74-5f7a356eee5f.jpg)
-![RMSD-backbone20](https://user-images.githubusercontent.com/54057111/117742455-6e652580-b237-11eb-9ac9-1a9fc3a9baca.jpg)
+![671dc0aaf51ef3fe1f05fbeaad0d6ac](https://user-images.githubusercontent.com/54057111/117802321-ec511d00-b287-11eb-9523-47f3a5b4e645.jpg)
+![996f51443fc736490ab9b74503b544a](https://user-images.githubusercontent.com/54057111/117802325-ece9b380-b287-11eb-8b95-482bfb3c4291.jpg)
+![57b9d5dbffa8b013be6e23f8e330e58](https://user-images.githubusercontent.com/54057111/117802327-ee1ae080-b287-11eb-9af4-32bab7772348.jpg)
+![05acfcdef18dd06716d5df0035e083d](https://user-images.githubusercontent.com/54057111/117802332-eeb37700-b287-11eb-84d5-0f85f4c15cf4.jpg)
+
 
